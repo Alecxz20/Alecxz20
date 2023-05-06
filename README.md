@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexis Perez
+👋 Hi, I’m Alexis Perez
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning css and js
 - 💞️ I’m looking to collaborate on projects and gain experience
